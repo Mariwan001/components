@@ -49,3 +49,10 @@ const TextBlurAnimate: FC<TextBlurAnimateProps> = ({
 }
 
 export { TextBlurAnimate } 
+
+
+
+
+//how to use ?
+
+//<TextBlur text='paste your text here' delay={"type a number "} duration={"type a number"} staggerDelay={"id does control the time gap between each word's animation start."}/>
